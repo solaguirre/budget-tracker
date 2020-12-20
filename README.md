@@ -5,6 +5,8 @@
   ## Description 
 The Budget Tracker app allows users to track their expenses both online and offline. This app is perfect for the user on the go. 
 
+[![Screen-Shot-2020-12-20-at-4-06-54-PM.png](https://i.postimg.cc/bwGyNMhG/Screen-Shot-2020-12-20-at-4-06-54-PM.png)](https://postimg.cc/yDH4LLWB)
+
   ## Table of Contents
 
  * [Description](#description)
