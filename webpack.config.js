@@ -2,7 +2,7 @@ const WebpackPwaManifest = require("webpack-pwa-manifest");
 const path = require("path");
 
 const config = {
-    entry: ".public/index.js",
+    entry: "/public/index.js",
     output: {
         path: __dirname + "/public/dist",
         filename: "bundle.js",
@@ -34,12 +34,12 @@ const config = {
                 use: {
                     loader: "babel-loader",
                     options: {
-                        presets: ["@babel/preset-env"]
-                    }
-                }
-            }
-        ]
-    }
+                        presets: ["@babel/preset-env"],
+                    },
+                },
+            },
+        ],
+    },
 };
 
 module.exports = config;
