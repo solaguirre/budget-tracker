@@ -28,7 +28,7 @@ The Budget Tracker app allows users to track their expenses both online and offl
 Clone the repository and open with your local code editor. Users will require node and npm to run the necessary packages and dependencies.
  
   ## Usage 
-Follow this link for a deployed version of the app. 
+Follow this [link]() for a deployed version of the app. 
  
   ## License 
 MIT License
@@ -36,9 +36,6 @@ MIT License
   ## Contributing 
 Marisol Aguirre - Junior Full Stack Developer - UA Coding Boot Camp
  
-  ## Tests 
-
-  
   ## Questions 
  If you have any questions or would like to contribute, contact me:
   
